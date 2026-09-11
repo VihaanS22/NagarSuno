@@ -2,6 +2,8 @@
 
 **Your City. Your Voice.**
 
+Developed by Vihaan ©
+
 NagarSuno is a civic issue reporting and tracking web application that enables citizens to report local infrastructure problems and follow their progress while providing authorities with a dedicated dashboard to manage and resolve complaints.
 
 🔗 **Live Demo:** https://vihaans22.github.io/NagarSuno/
@@ -106,49 +108,7 @@ The selected city automatically affects:
 
 The Authority Dashboard can continue to monitor complaints across all supported cities.
 
----
 
-## 🚀 Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/vihaans22/NagarSuno.git
-```
-
-Enter the project directory:
-
-```bash
-cd NagarSuno
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
----
-
-## 🌐 Deployment
-
-The production build is generated using:
-
-```bash
-npm run build
-```
-
-NagarSuno is deployed using **GitHub Pages**.
-
-🔗 https://vihaans22.github.io/NagarSuno/
-
----
 
 ## 🔮 Future Scope
 
